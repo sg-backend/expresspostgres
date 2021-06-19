@@ -1,0 +1,14 @@
+runtime: nodejs14 # or another supported version
+
+env_variables:
+  TOKEN_SECRET: "7bc78545b1a3923cc1e1e19523fd5c3f20b409509"
+  DB_USER: "postgres"
+  DB_PASSWORD: "postgres"
+  DB_NAME: "postgres"
+  DB_HOST: "/cloudsql/lastingaffair-newdatingapp:asia-south1:lasting-affair-dating"
+  DB_dialect: "postgres"
+  WEBAPP_URL: "http://localhost"
+  PORT: 5000
+  GCS_BUCKET: "lastingaffair-newdatingapp.appspot.com" 
+  GCLOUD_PROJECT: "lastingaffair-newdatingapp"
+  GCS_KEYFILE: "lastingaffair-newdatingapp-ac09f05a394b.json"

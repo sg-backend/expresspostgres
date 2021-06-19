@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "lastingaffair-newdatingapp",
+  "private_key_id": "68f8c86c5ee41dce11776bb9e8d98ac07fb368de",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCWUHwLUs9DK7sL\nlg+AP89IWEsxC/fI8FvA3MfAaO4J6d5ysk7+ZGGbnlHiDGtjF2bTisJhPq3KYadr\nqP2H6nBV/G6kWnQcUXK/IrLeFLohTGgT7GSKNBIxnfn03NANrSPwtQoKF37vYBsB\ngy03KYZZkFJmc2WpBPyW16Kp+ofpS83qMbaZUzSBfaOuiOqqFeWhlHJjpobqxQ1u\nHpT6o6wABil2S9TjeqBU1GHn538fJ6ym+N3BDjXg5ot1M77ibwufONuE/p8FbpBs\nJprm2aB/+keA/W7BS50Rtsf9s303rdrJHA02DLUdo2D5bnIEelPUmV4dJleBiZ0J\nHp7qr735AgMBAAECggEAIevAyndiEXj9aWRwVBNSTjOqqENYpA5lzlSkeU3UpgUS\nb5TAkdUKV+l29gmydDa0PDncmsBfzMOT2g5VRIZJ2oWwXEOTX06cE/kbH1XTGS+a\nbyCSIcQVdP//B9yK0QNJEIlyXgumWBO6lHFLU176FB0nEzqobueSruGzsiM455Mc\nrItgEuDnVNp8T+lSIBjFCX2Lj0ynjXa6ebGdgZFaK77adpWTZTwx+8EzwQUuj42+\nzpqNobgor+ePOGpJ3lzx//apLRex9PThLGKg+USBsmDsMnglpoRUPsJUEFklI8R1\nEjEDUWt4B+LQKZvAjxiyfWw3iTlLUUrwkRwq5mtoJwKBgQDKfkfez3epkWPqjDuy\nzxUpyHYR6yrWLfQyx6Xq/dHcdr3+Ph+Wzh4EYepWXaCzMBkOXsA+7vnsPwtF3YX4\n0V/pw5WDtsBVI6AHCr35kUQ5JJNPuhFUg0rhLEuoPJNoMv5zqLMi9b11+YvtF0en\n0xhAlsPH+C6Vsz6XQIhQVnKvmwKBgQC+CIwF4SgbpnFXZbG1U0wvFQaTRuVretpS\n0JERKrN4tbBwJ+jomnZRmui88TEWyPZKxlCxphLB4Xt2D0vmgsTZv3JWUAhivqC9\n7YQPRyOcdv3aqgkIjIlqHZP+uYOe/F3BoI0Zvb9B/az7CbbLQFwwO6ZVAm3yNedb\nQeN7RVhD+wKBgFZPKRchWyHdpLbueuumNKEQnrLYh/Outq2GR4Q4F+Feg3EAzbob\ntNOtYJLbaYm28Jcdb9fjSIeX/5gR6e66X6VmBi6UELq5apZVz8+2SVwJ6PhMmOJq\n69m6Za0Z1MLPKYHm4CQAlnbYnPm7uIEiCu5M1LpBYKnSMtWJXhDQKCYNAoGAG3cg\nxbjFEzn7J6aLCKoBWMyxJpgYkHAxHccHMHP7fHbGCW+7OeMZNrIs8SHq9mAVOLlw\n8DwQefUc4vNTBP3hdZc170Oh8qOal9i8PXkKrJKGHhR1OccWFUAxI5+sZk4TPuj1\ne8Lw4ZjIZ3//62Bh8pasc5zmRxuDVK0xM5/SIgECgYEArB+vfw9FjDNgY21rKwjI\neb8rGTqkGVyRpxfX6EO44rqhS5uEcma2NLKYGI1Gl6+mBJ0x8JqgYVwECGFkQ58m\nEOb0lWm2/ZH1g3COs5cxHgyIcb2tWlJBgtOm7+zag2apD88bbJbpIURwAyaN/iUJ\n5pi838bDwN6pPAdLtho0Wxg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "nodejscode@lastingaffair-newdatingapp.iam.gserviceaccount.com",
+  "client_id": "115335999931645309821",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nodejscode%40lastingaffair-newdatingapp.iam.gserviceaccount.com"
+}
